@@ -1,0 +1,11 @@
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+
+img{
+	width: 190px;
+	height: 130px;
+}
